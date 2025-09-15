@@ -1,6 +1,8 @@
 body {
     display: flex;
     height: 100vh;
+    background-image: url('/photos/backgrond.jpg');
+    background-size: 100%;
 }
 
 form {
@@ -25,12 +27,12 @@ h2 {
 }
 
 input {
-    background-color: #F8F4FE;
+    background-color: #A4ACAF;
     width: 514px;
     padding-block: 15px;
     border: 1px;
     border-color: #D4D4DD;
-    border-radius: 10px;
+    border-radius: 12px;
     margin-bottom: 20px;
     padding-inline: 10px;
 }

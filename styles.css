@@ -1,6 +1,8 @@
 body {
     display: flex;
     height: 100vh;
+	background-image: url('/photos/white.jpg');
+    background-size: 100%;
 }
 
 form {
@@ -65,3 +67,4 @@ a:hover {
     color: #8D46F6;
     transform: scale(1.05);
 }
+

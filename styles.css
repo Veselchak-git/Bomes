@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Afacad.ttf";
-  src: url("/images/Afacad.ttf");
+  src: url("/fonts/Afacad.ttf");
   font-weight: normal;
 }
 
@@ -74,5 +74,6 @@ a:hover {
     color: #8D46F6;
     transform: scale(1.05);
 }
+
 
 

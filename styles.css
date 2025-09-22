@@ -1,4 +1,11 @@
+@font-face {
+  font-family: "Afacad.ttf";
+  src: url("/images/Afacad.ttf");
+  font-weight: normal;
+}
+
 body {
+	font-family: "Afacad", san-serif:
     display: flex;
     height: 100vh;
     background-image: url('/photos/backgrond.jpg');
@@ -67,4 +74,5 @@ a:hover {
     color: #8D46F6;
     transform: scale(1.05);
 }
+
 
